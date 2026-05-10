@@ -13,3 +13,6 @@ wheels/
 .env
 
 .DS_Store
+
+# mlflowの保存ファイル
+mlflow.db
